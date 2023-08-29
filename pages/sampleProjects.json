@@ -1,0 +1,1454 @@
+{
+    "projects": [
+        {
+            "projectid": 1,
+            "description": "we-nose",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.893831,
+            "longitude": 4.310668,
+            "startstamp": "1999-12-31T23:00:00.000Z",
+            "stopstamp": "2030-12-15T15:30:00.000Z"
+        },
+        {
+            "projectid": 5,
+            "description": "Vopak Terminal Europoort",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.909902,
+            "longitude": 4.212731,
+            "startstamp": "2000-04-01T08:36:14.000Z",
+            "stopstamp": "2030-01-01T00:00:00.000Z"
+        },
+        {
+            "projectid": 6,
+            "description": "BP Europoort",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.948442,
+            "longitude": 4.101238,
+            "startstamp": "1999-12-31T23:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 11,
+            "description": "Moerdijk",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.684101,
+            "longitude": 4.58467,
+            "startstamp": "2011-01-18T23:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 12,
+            "description": "TATA Steel IJmuiden",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.4771,
+            "longitude": 4.58474,
+            "startstamp": "2001-10-29T10:17:30.000Z",
+            "stopstamp": "2030-01-01T10:08:00.000Z"
+        },
+        {
+            "projectid": 15,
+            "description": "Prov Groningen - Delfzijl",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 53.319198,
+            "longitude": 6.93759,
+            "startstamp": "2010-09-13T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 17,
+            "description": "Bayern Oil",
+            "country": "DEU",
+            "timezone_name": "Europe/Berlin",
+            "latitude": 48.7877,
+            "longitude": 11.742198,
+            "startstamp": "2010-09-20T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 21,
+            "description": "$$ Comon Invent",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.984699,
+            "longitude": 4.3357,
+            "startstamp": "2011-04-20T10:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 27,
+            "description": "Evos Amsterdam West",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.415023,
+            "longitude": 4.741506,
+            "startstamp": "2011-09-05T06:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 28,
+            "description": "ESD-SIC",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 53.298977,
+            "longitude": 6.967905,
+            "startstamp": "2010-09-13T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 33,
+            "description": "$$",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.984866,
+            "longitude": 4.335873,
+            "startstamp": "2008-11-19T23:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 39,
+            "description": "OQ Suhar Refinery",
+            "country": "OMN",
+            "timezone_name": "Asia/Muscat",
+            "latitude": 24.479026,
+            "longitude": 56.618649,
+            "startstamp": "2012-04-24T06:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 44,
+            "description": "RIVM",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.118826,
+            "longitude": 5.188917,
+            "startstamp": "2012-09-17T10:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 54,
+            "description": "Binapro",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.727315,
+            "longitude": 5.882367,
+            "startstamp": "2013-04-30T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 60,
+            "description": "AFS Bodemmonitoring",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.307521,
+            "longitude": 4.7727,
+            "startstamp": "2013-03-27T23:00:00.000Z",
+            "stopstamp": "2030-12-30T23:00:00.000Z"
+        },
+        {
+            "projectid": 65,
+            "description": "Vopak Terminal Durban Afrika",
+            "country": "ZAF",
+            "timezone_name": "Africa/Johannesburg",
+            "latitude": -29.895099,
+            "longitude": 31.0191,
+            "startstamp": "2013-12-09T09:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 74,
+            "description": "Combinatie project NL $$",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.061725,
+            "longitude": 4.807552,
+            "startstamp": "1999-12-31T23:00:00.000Z",
+            "stopstamp": "2030-12-15T15:30:00.000Z"
+        },
+        {
+            "projectid": 76,
+            "description": "Alco Energy Rotterdam",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.924556,
+            "longitude": 4.181684,
+            "startstamp": "2011-03-31T22:00:01.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 77,
+            "description": "ATM",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.694123,
+            "longitude": 4.602404,
+            "startstamp": "2011-01-18T23:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 85,
+            "description": "Evos Amsterdam East",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.403476,
+            "longitude": 4.762888,
+            "startstamp": "2014-06-30T07:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 86,
+            "description": "MWH - Finland",
+            "country": "FIN",
+            "timezone_name": "Europe/Helsinki",
+            "latitude": 60.973159,
+            "longitude": 25.714633,
+            "startstamp": "2009-12-31T23:00:00.000Z",
+            "stopstamp": "2021-01-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 94,
+            "description": "Safety Deals",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.785224,
+            "longitude": 4.629756,
+            "startstamp": "2015-07-31T13:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 108,
+            "description": "Liwathon EOS Muuga Port",
+            "country": "EST",
+            "timezone_name": "Europe/Tallinn",
+            "latitude": 59.496497,
+            "longitude": 24.934443,
+            "startstamp": "2015-01-14T23:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 115,
+            "description": "Alpha Assembly Solutions",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.300913,
+            "longitude": 5.154118,
+            "startstamp": "2014-07-31T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 120,
+            "description": "Bidvest Tank Terminal Durban",
+            "country": "ZAF",
+            "timezone_name": "Africa/Johannesburg",
+            "latitude": -29.891187,
+            "longitude": 31.024614,
+            "startstamp": "2015-05-18T14:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 122,
+            "description": "Vito 1",
+            "country": "BEL",
+            "timezone_name": "Europe/Brussels",
+            "latitude": 51.218051,
+            "longitude": 5.078944,
+            "startstamp": "2009-12-31T23:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 124,
+            "description": "Maasvlakte Olie Terminal (MOT)",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.974849,
+            "longitude": 4.070672,
+            "startstamp": "1999-12-31T23:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 125,
+            "description": "OMV Tanklager Steinhöring",
+            "country": "DEU",
+            "timezone_name": "Europe/Berlin",
+            "latitude": 48.10646,
+            "longitude": 12.048269,
+            "startstamp": "2015-05-26T07:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 130,
+            "description": "Island view",
+            "country": "ZAF",
+            "timezone_name": "Africa/Johannesburg",
+            "latitude": -29.897819,
+            "longitude": 31.033006,
+            "startstamp": "2013-12-09T09:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 131,
+            "description": "eNose netwerk NZK - ARK",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.408078,
+            "longitude": 4.801177,
+            "startstamp": "2013-06-27T10:00:00.000Z",
+            "stopstamp": "2030-01-01T10:08:00.000Z"
+        },
+        {
+            "projectid": 138,
+            "description": "TAL Lenting",
+            "country": "DEU",
+            "timezone_name": "Europe/Berlin",
+            "latitude": 48.79705,
+            "longitude": 11.47467,
+            "startstamp": "2015-07-28T10:15:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 142,
+            "description": "Regio Zuidwest Nederland",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.906217,
+            "longitude": 5.094706,
+            "startstamp": "1999-12-31T23:00:00.000Z",
+            "stopstamp": "2030-12-15T15:30:00.000Z"
+        },
+        {
+            "projectid": 152,
+            "description": "TNPA",
+            "country": "ZAF",
+            "timezone_name": "Africa/Johannesburg",
+            "latitude": -29.921661,
+            "longitude": 30.98553,
+            "startstamp": "2015-11-15T23:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 164,
+            "description": "OMV Burghausen",
+            "country": "DEU",
+            "timezone_name": "Europe/Berlin",
+            "latitude": 48.195913,
+            "longitude": 12.838936,
+            "startstamp": "2016-03-25T09:43:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 167,
+            "description": "eNose network Muuga",
+            "country": "EST",
+            "timezone_name": "Europe/Tallinn",
+            "latitude": 59.48674,
+            "longitude": 24.937066,
+            "startstamp": "2016-03-29T15:18:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 176,
+            "description": "OQ MAF Refinery",
+            "country": "OMN",
+            "timezone_name": "Asia/Muscat",
+            "latitude": 23.63027,
+            "longitude": 58.51044,
+            "startstamp": "2016-05-24T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 177,
+            "description": "Attero Wilp",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.200621,
+            "longitude": 6.071057,
+            "startstamp": "2016-06-07T14:30:55.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 181,
+            "description": "Eurotank Amsterdam",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.409859,
+            "longitude": 4.850407,
+            "startstamp": "2013-06-27T10:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 182,
+            "description": "Vesta Terminal Tallinn",
+            "country": "EST",
+            "timezone_name": "Europe/Tallinn",
+            "latitude": 59.49128,
+            "longitude": 24.945539,
+            "startstamp": "2016-03-29T15:18:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 188,
+            "description": "eMISK eNose Trial $$",
+            "country": "KWT",
+            "timezone_name": "Asia/Kuwait",
+            "latitude": 29.05533,
+            "longitude": 48.135233,
+            "startstamp": "2016-07-28T04:34:49.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 189,
+            "description": "Grand Bahamas - Freeport",
+            "country": "BHS",
+            "timezone_name": "America/Nassau",
+            "latitude": 26.523635,
+            "longitude": -78.726434,
+            "startstamp": "2016-08-23T10:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 202,
+            "description": "Corbion",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.843983,
+            "longitude": 4.986079,
+            "startstamp": "2016-10-10T10:50:02.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 210,
+            "description": "TAL Trieste",
+            "country": "ITA",
+            "timezone_name": "Europe/Rome",
+            "latitude": 45.60272,
+            "longitude": 13.830053,
+            "startstamp": "2016-12-14T12:57:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 212,
+            "description": "Gemeente Coevorden (Klinkenvlier)",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.651438,
+            "longitude": 6.765953,
+            "startstamp": "2012-10-04T14:00:00.000Z",
+            "stopstamp": "2021-08-25T06:00:00.000Z"
+        },
+        {
+            "projectid": 216,
+            "description": "HVC - Wieringermeer",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.771674,
+            "longitude": 5.084262,
+            "startstamp": "2017-01-26T14:24:39.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 218,
+            "description": "Raffineria Milazzo",
+            "country": "ITA",
+            "timezone_name": "Europe/Rome",
+            "latitude": 38.203901,
+            "longitude": 15.270882,
+            "startstamp": "2017-02-17T09:55:28.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 226,
+            "description": "MISC Oman",
+            "country": "OMN",
+            "timezone_name": "Asia/Muscat",
+            "latitude": 24.484985,
+            "longitude": 56.603397,
+            "startstamp": "2017-03-27T13:22:39.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 231,
+            "description": "PDO - Muscat",
+            "country": "OMN",
+            "timezone_name": "Asia/Muscat",
+            "latitude": 23.625576,
+            "longitude": 58.517887,
+            "startstamp": "2017-07-20T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 236,
+            "description": "Fujairah Environment Authority network - Fixed alarm settings (S1+S2+S3+S4)",
+            "country": "ARE",
+            "timezone_name": "Asia/Dubai",
+            "latitude": 25.194678,
+            "longitude": 56.351413,
+            "startstamp": "2017-05-18T10:09:55.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 241,
+            "description": "EKUK - Tallinn Bay",
+            "country": "EST",
+            "timezone_name": "Europe/Tallinn",
+            "latitude": 59.449828,
+            "longitude": 24.805058,
+            "startstamp": "2017-06-30T13:26:29.000Z",
+            "stopstamp": "2020-11-11T23:00:00.000Z"
+        },
+        {
+            "projectid": 259,
+            "description": "Evos Algeciras",
+            "country": "ESP",
+            "timezone_name": "Europe/Madrid",
+            "latitude": 36.124009,
+            "longitude": -5.430214,
+            "startstamp": "2017-10-11T07:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 260,
+            "description": "OMWB - IFF Tilburg ",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.584603,
+            "longitude": 5.0483,
+            "startstamp": "2017-10-16T08:34:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 265,
+            "description": "Bidvest Tank Terminal Richards Bay",
+            "country": "ZAF",
+            "timezone_name": "Africa/Johannesburg",
+            "latitude": -28.816864,
+            "longitude": 32.065248,
+            "startstamp": "2017-12-15T08:05:02.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 269,
+            "description": "Nobian Rotterdam",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.87457,
+            "longitude": 4.279775,
+            "startstamp": "2000-04-01T08:36:14.000Z",
+            "stopstamp": "2030-12-15T15:30:00.000Z"
+        },
+        {
+            "projectid": 271,
+            "description": "Vopak Horizon Terminal Fujairah",
+            "country": "ARE",
+            "timezone_name": "Asia/Dubai",
+            "latitude": 25.205411,
+            "longitude": 56.356866,
+            "startstamp": "2000-12-18T07:30:49.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 273,
+            "description": "Evos Malta",
+            "country": "MLT",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 35.812666,
+            "longitude": 14.540979,
+            "startstamp": "2018-02-20T10:08:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 288,
+            "description": "State of Jersey - Bellozanne",
+            "country": "JEY",
+            "timezone_name": "Europe/Jersey",
+            "latitude": 49.199905,
+            "longitude": -2.122473,
+            "startstamp": "2018-06-07T10:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 293,
+            "description": "BP Europoort Test project",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.947442,
+            "longitude": 4.100238,
+            "startstamp": "1999-12-31T23:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 295,
+            "description": "Defensie Pijpleiding Organisatie",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.853532,
+            "longitude": 4.407932,
+            "startstamp": "2018-07-25T07:40:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 296,
+            "description": "State of Jersey - La Collette ",
+            "country": "JEY",
+            "timezone_name": "Europe/Jersey",
+            "latitude": 49.169648,
+            "longitude": -2.111272,
+            "startstamp": "2018-07-25T22:00:01.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 298,
+            "description": "HELPE - Thessaloniki",
+            "country": "GRC",
+            "timezone_name": "Europe/Athens",
+            "latitude": 40.714932,
+            "longitude": 22.913314,
+            "startstamp": "2018-09-14T08:31:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 299,
+            "description": "VROMI Pond Island Landfill",
+            "country": "SXM",
+            "timezone_name": "America/Lower_Princes",
+            "latitude": 18.031258,
+            "longitude": -63.045481,
+            "startstamp": "2018-09-18T17:05:58.000Z",
+            "stopstamp": "2021-07-19T13:04:04.000Z"
+        },
+        {
+            "projectid": 303,
+            "description": "Kuwait eNoses - eMISK-Waste",
+            "country": "KWT",
+            "timezone_name": "Asia/Kuwait",
+            "latitude": 29.079332,
+            "longitude": 48.13236,
+            "startstamp": "2018-11-05T13:31:43.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 308,
+            "description": "Provincie Gelderland - Varend ontgassen",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.851985,
+            "longitude": 5.859496,
+            "startstamp": "2019-01-17T08:51:30.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 311,
+            "description": "Port of Algeciras",
+            "country": "ESP",
+            "timezone_name": "Europe/Madrid",
+            "latitude": 36.122773,
+            "longitude": -5.438831,
+            "startstamp": "2019-02-13T15:31:34.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 312,
+            "description": "Port of Algeciras + Evos",
+            "country": "ESP",
+            "timezone_name": "Europe/Madrid",
+            "latitude": 36.125009,
+            "longitude": -5.431214,
+            "startstamp": "2017-10-11T07:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 313,
+            "description": "Soprema",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 53.013355,
+            "longitude": 5.622947,
+            "startstamp": "2003-02-09T08:21:26.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 316,
+            "description": "TAL Trieste Test project",
+            "country": "ITA",
+            "timezone_name": "Europe/Rome",
+            "latitude": 45.602756,
+            "longitude": 13.831671,
+            "startstamp": "2016-12-14T12:57:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 322,
+            "description": "Statenweg",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52,
+            "longitude": 4.46,
+            "startstamp": "2017-08-31T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 326,
+            "description": "CeDo",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 50.966987,
+            "longitude": 5.826795,
+            "startstamp": "2019-05-10T08:46:51.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 327,
+            "description": "Combinatie project Soprema - IJlst $$",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 53.012873,
+            "longitude": 5.624255,
+            "startstamp": "2003-02-09T08:21:26.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 336,
+            "description": "Fujairah Environment Authority network - Dynamic alert levels (S1+S2+S3)",
+            "country": "ARE",
+            "timezone_name": "Asia/Dubai",
+            "latitude": 25.208021,
+            "longitude": 56.356541,
+            "startstamp": "2017-05-18T10:23:28.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 337,
+            "description": "NZK - ARK - TEST intern $$",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.414791,
+            "longitude": 4.782495,
+            "startstamp": "2013-06-27T10:00:00.000Z",
+            "stopstamp": "2030-01-01T10:08:00.000Z"
+        },
+        {
+            "projectid": 341,
+            "description": "PTT Global Chemical, Branch 7",
+            "country": "THA",
+            "timezone_name": "Asia/Bangkok",
+            "latitude": 13.114727,
+            "longitude": 101.22645,
+            "startstamp": "2019-08-12T12:28:17.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 343,
+            "description": "BP Refineria de Castellón",
+            "country": "ESP",
+            "timezone_name": "Europe/Madrid",
+            "latitude": 39.956242,
+            "longitude": -0.00388,
+            "startstamp": "2019-08-26T12:55:47.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 345,
+            "description": "Dubai Municipality eNose Network",
+            "country": "ARE",
+            "timezone_name": "Asia/Dubai",
+            "latitude": 25.22716,
+            "longitude": 55.316954,
+            "startstamp": "2019-09-09T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 347,
+            "description": "HELPE - Aspropyrgos",
+            "country": "GRC",
+            "timezone_name": "Europe/Athens",
+            "latitude": 38.040796,
+            "longitude": 23.511226,
+            "startstamp": "2019-10-18T13:42:07.000Z",
+            "stopstamp": "2030-01-01T00:00:00.000Z"
+        },
+        {
+            "projectid": 348,
+            "description": "Sitech/Sabic Tankerpark 3",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 50.964155,
+            "longitude": 5.80651,
+            "startstamp": "2019-10-21T12:41:09.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 350,
+            "description": "Polychem Resins International",
+            "country": "ARE",
+            "timezone_name": "Asia/Dubai",
+            "latitude": 24.999437,
+            "longitude": 55.123754,
+            "startstamp": "2019-10-31T08:34:24.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 359,
+            "description": "RITVER DMCC",
+            "country": "ARE",
+            "timezone_name": "Asia/Dubai",
+            "latitude": 25.003795,
+            "longitude": 55.117236,
+            "startstamp": "2019-10-08T07:26:06.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 361,
+            "description": "EMO Intern",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.955061,
+            "longitude": 4.115349,
+            "startstamp": "2013-12-10T09:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 364,
+            "description": "HELPE - Elefsis Refinery",
+            "country": "GRC",
+            "timezone_name": "Europe/Athens",
+            "latitude": 38.041625,
+            "longitude": 23.508589,
+            "startstamp": "2019-11-26T14:47:23.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 365,
+            "description": "$$ Comon Invent - PM ",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51,
+            "longitude": 4.5,
+            "startstamp": "2018-07-25T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 367,
+            "description": "Provincie Drenthe - ETP Wijster",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.787929,
+            "longitude": 6.510798,
+            "startstamp": "2020-01-09T10:22:53.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 369,
+            "description": "PDO - Muscat Test project",
+            "country": "OMN",
+            "timezone_name": "Asia/Muscat",
+            "latitude": 23.625533,
+            "longitude": 58.518605,
+            "startstamp": "2017-07-20T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 374,
+            "description": "OMWB - Dongen",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.622045,
+            "longitude": 4.951984,
+            "startstamp": "2016-10-27T14:30:40.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 375,
+            "description": "Test project $$",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": -29.110505,
+            "longitude": 144.835938,
+            "startstamp": "2018-12-31T23:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 379,
+            "description": "Dura Vermeer Krimpen EMK",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.912067,
+            "longitude": 4.576994,
+            "startstamp": "2016-12-30T09:29:51.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 382,
+            "description": "DCMR - Naaldwijk",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.993564,
+            "longitude": 4.213572,
+            "startstamp": "2020-03-26T14:07:42.000Z",
+            "stopstamp": "2020-11-10T11:00:00.000Z"
+        },
+        {
+            "projectid": 384,
+            "description": "Koole Terminals Rotterdam",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.893316,
+            "longitude": 4.360289,
+            "startstamp": "2010-03-31T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 385,
+            "description": "SCDF Singapore",
+            "country": "SGP",
+            "timezone_name": "Asia/Singapore",
+            "latitude": 1.326144,
+            "longitude": 103.802181,
+            "startstamp": "2020-04-17T12:47:07.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 387,
+            "description": "ATPC Terminal",
+            "country": "BEL",
+            "timezone_name": "Europe/Brussels",
+            "latitude": 51.250384,
+            "longitude": 4.366276,
+            "startstamp": "2020-05-06T14:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 388,
+            "description": "Vergister Exloermond",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.922059,
+            "longitude": 6.968462,
+            "startstamp": "2020-01-09T10:23:46.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 390,
+            "description": "PTT Global Chemical, Branch 8 Aromatics",
+            "country": "THA",
+            "timezone_name": "Asia/Bangkok",
+            "latitude": 12.694191,
+            "longitude": 101.150436,
+            "startstamp": "2020-06-02T22:00:01.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 391,
+            "description": "SUEZ Amersfoort",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.154656,
+            "longitude": 5.371568,
+            "startstamp": "2020-06-18T09:35:12.000Z",
+            "stopstamp": "2020-11-23T08:31:09.000Z"
+        },
+        {
+            "projectid": 392,
+            "description": "ZGT",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.3,
+            "longitude": 6.65,
+            "startstamp": "2015-05-11T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 393,
+            "description": "Waterschap Aa en Maas - RWZI Den Bosch",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.68834,
+            "longitude": 5.312218,
+            "startstamp": "2020-06-25T13:30:12.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 397,
+            "description": "Den Ouden - Helmond",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.450366,
+            "longitude": 5.695627,
+            "startstamp": "2020-08-26T14:00:30.000Z",
+            "stopstamp": "2022-12-21T14:00:00.000Z"
+        },
+        {
+            "projectid": 400,
+            "description": "OMWB - Agristo ",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.587137,
+            "longitude": 5.038963,
+            "startstamp": "2017-10-18T14:30:00.000Z",
+            "stopstamp": "2022-03-18T08:00:00.000Z"
+        },
+        {
+            "projectid": 404,
+            "description": "Provincie NH - Groene Kade",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.410223,
+            "longitude": 4.771894,
+            "startstamp": "2015-09-01T11:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 410,
+            "description": "Afvalzorg - Lelystad - locatie Zeeasterweg",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.493527,
+            "longitude": 5.575406,
+            "startstamp": "2020-11-18T14:05:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 411,
+            "description": "ODRA - Mobiele eNose",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.983736,
+            "longitude": 5.902348,
+            "startstamp": "2020-11-23T08:51:57.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 417,
+            "description": "Heijmans - Buiksloterham",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.388264,
+            "longitude": 4.906955,
+            "startstamp": "2015-09-01T11:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 418,
+            "description": "Programma team Wijk aan Zee (ODNZKG)",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.46695,
+            "longitude": 4.646505,
+            "startstamp": "2017-01-14T05:00:00.000Z",
+            "stopstamp": "2030-01-01T10:08:00.000Z"
+        },
+        {
+            "projectid": 420,
+            "description": "Port of Antwerp DEMO",
+            "country": "BEL",
+            "timezone_name": "Europe/Brussels",
+            "latitude": 51.310111,
+            "longitude": 4.323773,
+            "startstamp": "2021-03-23T08:41:16.000Z",
+            "stopstamp": "2021-04-21T07:15:00.000Z"
+        },
+        {
+            "projectid": 423,
+            "description": "eEars - Vlaardingen",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.909848,
+            "longitude": 4.357296,
+            "startstamp": "2010-03-31T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 425,
+            "description": "OZHZ - Test benzeensensor $$",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.958531,
+            "longitude": 4.963479,
+            "startstamp": "2018-03-15T15:28:16.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 426,
+            "description": "SEGI - pilot 2021",
+            "country": "FRA",
+            "timezone_name": "Europe/Paris",
+            "latitude": 47.71981,
+            "longitude": -0.98732,
+            "startstamp": "2021-06-28T11:42:23.000Z",
+            "stopstamp": "2021-08-31T22:00:00.000Z"
+        },
+        {
+            "projectid": 428,
+            "description": "Vito - Sanering Ashland",
+            "country": "BEL",
+            "timezone_name": "Europe/Brussels",
+            "latitude": 51.063693,
+            "longitude": 5.177453,
+            "startstamp": "2021-07-23T07:51:02.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 429,
+            "description": "Olfascan",
+            "country": "BEL",
+            "timezone_name": "Europe/Brussels",
+            "latitude": 51.066911,
+            "longitude": 4.448593,
+            "startstamp": "2021-08-27T13:25:57.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 430,
+            "description": "Skyside",
+            "country": "ZAF",
+            "timezone_name": "Africa/Johannesburg",
+            "latitude": -29.900744,
+            "longitude": 30.992796,
+            "startstamp": "2021-09-07T11:33:08.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 432,
+            "description": "Stantec - Oostsingel Delft",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.010598,
+            "longitude": 4.35882,
+            "startstamp": "2021-09-20T12:50:02.000Z",
+            "stopstamp": "2021-10-19T09:00:32.000Z"
+        },
+        {
+            "projectid": 435,
+            "description": "Intern TATA-ODNZKG Klachtenanalyse $$",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.479977,
+            "longitude": 4.605193,
+            "startstamp": "2001-10-29T10:17:30.000Z",
+            "stopstamp": "2030-01-01T10:08:00.000Z"
+        },
+        {
+            "projectid": 436,
+            "description": "OMWB - Chijnsgoed Sterksel",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.34,
+            "longitude": 5.62,
+            "startstamp": "2021-11-16T08:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 437,
+            "description": "Eternit NV",
+            "country": "BEL",
+            "timezone_name": "Europe/Brussels",
+            "latitude": 51.005938,
+            "longitude": 4.364754,
+            "startstamp": "2021-11-23T11:42:37.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 438,
+            "description": "RBK Group",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.238981,
+            "longitude": 6.188122,
+            "startstamp": "2022-09-22T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 440,
+            "description": "SCDF 4G connectivity test",
+            "country": "SGP",
+            "timezone_name": "Asia/Singapore",
+            "latitude": 1.322643,
+            "longitude": 103.79772,
+            "startstamp": "2020-04-17T12:36:37.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 447,
+            "description": "DP World",
+            "country": "ARE",
+            "timezone_name": "Asia/Dubai",
+            "latitude": 24.946903,
+            "longitude": 55.112191,
+            "startstamp": "2022-01-31T13:53:11.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 449,
+            "description": "Sabic",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 50.960507,
+            "longitude": 5.793244,
+            "startstamp": "2022-02-22T11:28:03.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 452,
+            "description": "Combinatie - Chemelot",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 50.961444,
+            "longitude": 5.797005,
+            "startstamp": "2022-02-10T13:16:39.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 454,
+            "description": "EAD Abu Dhabi",
+            "country": "ARE",
+            "timezone_name": "Asia/Dubai",
+            "latitude": 24.323197,
+            "longitude": 54.548291,
+            "startstamp": "2022-03-24T16:03:40.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 455,
+            "description": "Sabic - OLE3",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 50.958569,
+            "longitude": 5.793165,
+            "startstamp": "2022-02-11T08:13:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 456,
+            "description": "Sabic - PE",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 50.957595,
+            "longitude": 5.796426,
+            "startstamp": "2022-02-22T11:28:04.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 457,
+            "description": "Sabic - PPF",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 50.956893,
+            "longitude": 5.800718,
+            "startstamp": "2022-02-22T11:28:13.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 458,
+            "description": "Sabic - LOG",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 50.961326,
+            "longitude": 5.806211,
+            "startstamp": "2022-02-22T11:28:04.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 459,
+            "description": "Sabic - OLE4",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 50.96311,
+            "longitude": 5.794881,
+            "startstamp": "2022-02-22T13:15:07.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 461,
+            "description": "Combinatie project Dubai $$",
+            "country": "ARE",
+            "timezone_name": "Asia/Dubai",
+            "latitude": 25.098898,
+            "longitude": 55.26897,
+            "startstamp": "2019-09-09T22:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 462,
+            "description": "HELPE - TIC",
+            "country": "GRC",
+            "timezone_name": "Europe/Athens",
+            "latitude": 40.714467,
+            "longitude": 22.937597,
+            "startstamp": "2018-09-14T08:35:24.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 467,
+            "description": "IL&T Automatic Drone Project",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.868436,
+            "longitude": 5.801941,
+            "startstamp": "2019-01-28T08:45:23.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 468,
+            "description": "Aquafin - Waregem",
+            "country": "BEL",
+            "timezone_name": "Europe/Brussels",
+            "latitude": 50.890416,
+            "longitude": 3.418409,
+            "startstamp": "2022-07-14T11:54:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 469,
+            "description": "Agristo - Wielsbeke",
+            "country": "BEL",
+            "timezone_name": "Europe/Brussels",
+            "latitude": 50.911185,
+            "longitude": 3.375119,
+            "startstamp": "2022-07-13T13:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 470,
+            "description": "Gemeente Amsterdam - Sanering",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.384813,
+            "longitude": 4.902031,
+            "startstamp": "2021-01-12T11:50:10.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 471,
+            "description": "Werenfriedplein Arnhem",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.987637,
+            "longitude": 5.919967,
+            "startstamp": "2022-09-19T08:25:02.000Z",
+            "stopstamp": "2023-04-03T09:30:00.000Z"
+        },
+        {
+            "projectid": 475,
+            "description": "Sarpi - Spoorlaan Overberg",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.051538,
+            "longitude": 5.494536,
+            "startstamp": "2022-11-16T12:30:00.000Z",
+            "stopstamp": "2023-03-23T10:00:00.000Z"
+        },
+        {
+            "projectid": 479,
+            "description": "OMWB - Chijnsgoed Sterksel intern",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 51.339688,
+            "longitude": 5.6098,
+            "startstamp": "2021-11-16T08:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 480,
+            "description": "Evos Amsterdam ",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.409765,
+            "longitude": 4.751561,
+            "startstamp": "2011-09-05T06:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 481,
+            "description": "EAPC Ashkelon",
+            "country": "ISR",
+            "timezone_name": "Asia/Jerusalem",
+            "latitude": 31.6438,
+            "longitude": 34.531134,
+            "startstamp": "2023-03-06T08:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 484,
+            "description": "AkzoNobel Coatings Sassenheim",
+            "country": "NLD",
+            "timezone_name": "Europe/Amsterdam",
+            "latitude": 52.206212,
+            "longitude": 4.487586,
+            "startstamp": "2023-03-27T10:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 485,
+            "description": "Sabic - United",
+            "country": "SAU",
+            "timezone_name": "Asia/Riyadh",
+            "latitude": 27.044085,
+            "longitude": 49.550924,
+            "startstamp": "2023-04-18T10:00:00.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 487,
+            "description": "HELPE - Kordelio",
+            "country": "GRC",
+            "timezone_name": "Europe/Athens",
+            "latitude": 40.670291,
+            "longitude": 22.894629,
+            "startstamp": "2023-06-19T07:55:42.000Z",
+            "stopstamp": "2030-06-21T11:00:00.000Z"
+        },
+        {
+            "projectid": 488,
+            "description": "Curaçao Chicken Farm",
+            "country": "CUW",
+            "timezone_name": "America/Curacao",
+            "latitude": 12.156362,
+            "longitude": -68.893388,
+            "startstamp": "2023-06-16T13:48:07.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 489,
+            "description": "Dubai Municipality eNose Network - CI only",
+            "country": "ARE",
+            "timezone_name": "Asia/Dubai",
+            "latitude": 25.082202,
+            "longitude": 55.23722,
+            "startstamp": "2019-10-02T12:00:02.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 490,
+            "description": "PCFC Network Dubai - CI only",
+            "country": "ARE",
+            "timezone_name": "Asia/Dubai",
+            "latitude": 25.045189,
+            "longitude": 55.256597,
+            "startstamp": "2021-12-22T11:39:21.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 491,
+            "description": "Mobiele eNose H2S VOC B4 Sensor",
+            "country": "BEL",
+            "timezone_name": "Europe/Brussels",
+            "latitude": 51.05502,
+            "longitude": 5.340585,
+            "startstamp": "2023-06-22T09:35:55.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        },
+        {
+            "projectid": 492,
+            "description": "EDAR Pinedo",
+            "country": "ESP",
+            "timezone_name": "Europe/Madrid",
+            "latitude": 39.43338,
+            "longitude": -0.345129,
+            "startstamp": "2023-07-07T07:22:09.000Z",
+            "stopstamp": "2029-12-31T23:00:00.000Z"
+        }
+    ]
+}
